@@ -5,6 +5,8 @@ Journal title abbreviations file to be used with pandoc-citeproc
 
 ~~The current file only includes a subset of ecological journals. However, it definitely can and should be expanded.~~
 
+There are still some missing journals, especially newly created journals, need to be added. E.g. Methods in Ecology and Evolution.
+
 
 Example code to use abbreviation files with Pandoc:
 
