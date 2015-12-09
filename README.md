@@ -8,4 +8,4 @@ However, it definitely can and should be expanded.
 
 Example code to use abbreviation files with Pandoc:
 
-    pandoc -s -S input.md -o out.rtf --filter pandoc-citeproc --template=template.tex --bibliography=ref.bib --csl=journal_style.csl --citation-abbreviations=abbreviation.json
+    pandoc -s -S input.md -o out.rtf --filter pandoc-citeproc --template=template.tex --bibliography=ref.bib --csl=journal_style.csl --citation-abbreviations=abbreviations.json
