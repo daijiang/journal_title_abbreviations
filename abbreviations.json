@@ -1,0 +1,24 @@
+    { "default": {
+        "container-title": {
+            // multidisciplinary scientific journals
+                "Proceedings of the National Academy of Sciences": "Proc. Natl. Acad. Sci.",
+            // ecological journals
+                "Annual Review of Ecology and Systematics": "Annu. Rev. Ecol. Syst.",
+                "Australian Journal of Botany": "Aust. J. Bot.",
+                "Biological Conservation": "Biol. Conserv.",
+                "Ecological Monographs": "Ecol. Monogr.",
+                "Ecology Letters": "Ecol. Lett.",
+                "Global Change Biology": "Glob. Change Biol.",
+                "Global Ecology and Biogeography": "Global Ecol. Biogeogr.",
+                "Journal of Ecology": "J. Ecol.",
+                "Journal of the American Statistical Association": "J. Am. Stat. Assoc.",
+                "Methods in Ecology and Evolution": "Methods Ecol. Evol.",
+                "Physical Geography": "Phys. Geogr.",
+                "Plant and Soil": "Plant Soil",
+                "Plant Ecology": "Plant Ecol.",
+                "Systematic Biology": "Syst. Biol.",
+                "The American Naturalist": "Am. Nat.",
+                "Trends in Ecology & Evolution": "Trends Ecol. Evol."
+        }
+      }
+    }
